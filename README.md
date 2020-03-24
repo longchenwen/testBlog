@@ -2,7 +2,7 @@
 正式开始在github写博客
 
 # 博客分类
-1. java 基础
+1. [java 基础](https://github.com/longchenwen/java-basics)
 2. spring学习
 3. springboot学习
 4. springcloud学习
