@@ -6,5 +6,6 @@
 2. spring学习
 3. springboot学习
 4. springcloud学习
-4. mysql
+5. mysql
+6. RabbitMQ 基础学习
 
